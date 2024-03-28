@@ -1,4 +1,4 @@
-🚀
+
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -34,3 +34,10 @@
    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
     <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
+
+</br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimEunA97&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimEunA97&layout=compact&theme=dracula)
+
