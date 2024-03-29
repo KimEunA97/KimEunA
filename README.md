@@ -42,7 +42,9 @@
 
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimEunA97&show_icons=true&theme=dracula)
+<div align="right">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimEunA97&layout=compact&theme=dracula)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimEunA97&layout=compact&theme=dracula) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimEunA97&show_icons=true&theme=dracula)         
 
+
+</div>
